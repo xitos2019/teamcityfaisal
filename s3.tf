@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "b" {
-  bucket = "my-tf-faisal-bucket1234"
+  bucket = "my-tf-faisal-bucket12345"
   acl    = "private"
 
   tags = {
